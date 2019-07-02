@@ -1,0 +1,1 @@
+正面负面词语引用：https://github.com/data-science-lab/sentimentCN/tree/master/dict/%E7%9F%A5%E7%BD%91%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90%E7%94%A8%E8%AF%8D%E8%AF%AD%E9%9B%86
